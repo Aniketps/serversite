@@ -1,1 +1,1 @@
-pip install flask && pip install pandas && pip install requests
+python -m pip install flask && pip install pandas && pip install requests
